@@ -1,5 +1,5 @@
 # Telegram-IPv6-Updater
 Python/NodeRed Ipv6 Information Service over Telegram
 
-Workflow
+Workflow:
 Python Script -> MQTT -> InfluxDB -> NodeRed -> Telegram/Mail
